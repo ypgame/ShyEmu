@@ -1,0 +1,8 @@
+Make The sun++ engine to work with shyemu
+dont replace it with the old one and commit make it to compile an new dll named SunScript
+
+
+and make all the instance scripts to compile
+
+credits to arcemu and open-ascent
+and sun++ for the files
